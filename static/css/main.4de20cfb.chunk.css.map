@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/UserInfo.scss"],"names":[],"mappings":"AACE,gBACA,UAAW,CACZ,iBAGG,UAAW","file":"main.4de20cfb.chunk.css","sourcesContent":[".UserInfo {\n  &__user {\n  color: blue;\n}\n\n  &__email {\n    color: gray;\n  }\n}\n"]}
